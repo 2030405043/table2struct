@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "aNZPEOjiyAgS+Y0n19AF8vimMc4=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "877a9775f06853f611fb2d4e817d92479242d1cd",
+			"revisionTime": "2019-05-10T10:23:35Z"
+		},
+		{
+			"checksumSHA1": "mKeCfrWkzeEqRF05RCEjxQCfB4I=",
+			"path": "github.com/gohouse/converter",
+			"revision": "2f8bd4b684e5beb6399f99b41cef42f3c9057a82",
+			"revisionTime": "2019-08-02T06:57:50Z"
+		}
+	],
+	"rootPath": "generate-struct"
+}
