@@ -3,6 +3,7 @@
     使用方法:
         
         1.使用git工具clone项目
+        
           git clone https://github.com/2030405043/table2struct.git
         
         2.在 main() 函数中修改数据库地址、端口、数据库  启动 main() 函数 即在model/model.go文件中生成所有表映射的结构体
